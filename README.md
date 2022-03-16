@@ -4,7 +4,8 @@
 * [Technologies](#technologies)
 
 ## General info
-This app is designed to help schedule day-to-day activities. You can check it out here! -> https://raynoldyu.github.io/To-Do-List/
+This app is designed to help schedule day-to-day activities. 
+You can check it out here! -> https://raynoldyu.github.io/To-Do-List/
 
 Preview: 
 
